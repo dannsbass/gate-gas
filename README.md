@@ -1,0 +1,1 @@
+Ini adalah kode untuk mengambil jumlah USDT yang ada di akun Gate
